@@ -21,7 +21,7 @@ Componentes usados
 - Cards
 - Formulário
 
-Link do site
+Link do site do git pages
  https://luisnascimento7-crypto.github.io/aves-ap2/
 
 Sobre o projeto
