@@ -22,7 +22,7 @@ Componentes usados
 - Formulário
 
 Link do site
-Coloque aqui o link do GitHub Pages depois
+ https://luisnascimento7-crypto.github.io/aves-ap2/
 
 Sobre o projeto
 Este projeto foi feito como atividade da faculdade para praticar HTML e Bootstrap.
