@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1, h2, h3 {
+  color: #1b5e20;
+}
+
+.img-carrossel {
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.card-ave img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-ave {
+  width: 280px;
+}
+
+.contato {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card-ave {
+  width: 300px;
+}
+.img-ave {
+  height: 200px;
+  object-fit: cover;
+}
+
+.box {
+  padding: 20px;
+}
