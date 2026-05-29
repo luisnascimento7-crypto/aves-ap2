@@ -1,2 +1,28 @@
 # aves-ap2
-Projeto para AP2 sobre aves ornamentais
+Encanto das Aves
+
+Este projeto foi feito usando Bootstrap 5.
+
+O site fala sobre três tipos de aves: calopsita, periquito e manon.
+
+Páginas do site
+- Página inicial com imagens e informações
+- Página sobre as aves
+- Página com cuidados das aves
+
+Tecnologias usadas
+- HTML
+- CSS
+- Bootstrap
+
+Componentes usados
+- Navbar
+- Carousel
+- Cards
+- Formulário
+
+Link do site
+Coloque aqui o link do GitHub Pages depois
+
+Sobre o projeto
+Este projeto foi feito como atividade da faculdade para praticar HTML e Bootstrap.
